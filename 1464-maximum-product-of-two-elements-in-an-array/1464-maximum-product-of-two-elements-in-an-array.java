@@ -1,7 +1,7 @@
 class Solution {
     public int maxProduct(int[] nums) {
        int max1 = Integer.MIN_VALUE, max2 = Integer.MIN_VALUE;
-
+//Finding 2 max in one go --
         for (int n : nums) {
             if (n > max1) {
                 max2 = max1; // Update max2 before updating max1
