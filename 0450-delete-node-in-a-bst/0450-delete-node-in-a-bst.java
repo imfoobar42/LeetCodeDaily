@@ -14,34 +14,39 @@
  * }
  */
 class Solution {
-    
-    public int min(TreeNode currentNode){
-      while(currentNode.left!=null){
-        currentNode = currentNode.left;
-      }
-      return currentNode.val;
+    // Inorder Successor from the subtree
+    public int min(TreeNode currentNode) {
+        while (currentNode.left != null) {
+            currentNode = currentNode.left;
+        }
+        return currentNode.val;
     }
+
     public TreeNode deleteNode(TreeNode root, int key) {
-        if(root==null) return null;
-      //need to search the value 
-      if(key < root.val) root.left = deleteNode(root.left,key);
-      else if(key > root.val) root.right = deleteNode(root.right,key);
-      else{ 
-        //Node found
-        //leaf node
-        if(root.left==null && root.right==null) root = null;
-        else if(root.right==null){ //node w left child
-          root = root.left;
+        TreeNode currentNode = root;
+        if (currentNode == null) {
+            return null;
         }
-        else if(root.left==null){ //node w right child
-          root = root.right;
+
+        if (key < currentNode.val) {
+            currentNode.left = deleteNode(currentNode.left, key);
+        } else if (key > currentNode.val) {
+            currentNode.right = deleteNode(currentNode.right, key);
+        } else {
+            // Node to be deleted found
+            if (currentNode.left == null && currentNode.right == null) {
+                return null; // Leaf node
+            } else if (currentNode.left == null) {
+                return currentNode.right; // Node with only right child
+            } else if (currentNode.right == null) {
+                return currentNode.left; // Node with only left child
+            } else {
+                // Node with two children
+                int minValue = min(currentNode.right);
+                currentNode.val = minValue;
+                currentNode.right = deleteNode(currentNode.right, minValue);
+            }
         }
-        else{ //Internal node with left and right subtree
-            int minValue = min(root.right);
-            root.val = minValue;
-            root.right = deleteNode(root.right,minValue);
-        }
-      } 
-      return root;
+        return currentNode;
     }
 }
