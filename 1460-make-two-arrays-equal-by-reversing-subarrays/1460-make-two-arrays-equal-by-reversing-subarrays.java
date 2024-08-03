@@ -1,16 +1,23 @@
 class Solution {
+
     public boolean canBeEqual(int[] target, int[] arr) {
-        int n1 = target.length;
-        int n2 = arr.length;
-        if(n1!=n2) return false;
-        Map<Integer,Integer> map = new HashMap<>();
-        for(int n: target){
-          map.put(n,map.getOrDefault(n,0)+1);
+        // Frequency count for arr
+        Map<Integer, Integer> arrFreq = new HashMap<>();
+        for (int num : arr) {
+            arrFreq.put(num, arrFreq.getOrDefault(num, 0) + 1);
         }
-        for(int n : arr){
-          if(!map.containsKey(n) || map.get(n)==0) return false;
-          map.put(n,map.get(n)-1);
+
+        for (int num : target) {
+            // If num does not appear in target, then arrays are not equal
+            if (!arrFreq.containsKey(num)) return false;
+
+            // Decrement the frequency count for num and
+            // remove key if the count goes to 0
+            arrFreq.put(num, arrFreq.get(num) - 1);
+            if (arrFreq.get(num) == 0) {
+                arrFreq.remove(num);
+            }
         }
-      return true;
+        return arrFreq.size() == 0;
     }
 }
