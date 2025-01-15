@@ -14,7 +14,7 @@ class Solution {
       while(start<=end){
         int mid = start + (end-start)/2;
         if(nums[mid]==target){
-          res = mid;
+          res = mid; //update res everytime we find it match with target and store the index in res
           if(!first){
              start= mid+1; //finding last occurence
              }
