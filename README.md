@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0219-contains-duplicate-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0219-contains-duplicate-ii) |
 | [0403-frog-jump](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0890-lemonade-change) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2058-concatenation-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
