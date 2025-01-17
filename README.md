@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0890-lemonade-change) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0222-count-complete-tree-nodes) |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3472-bitwise-or-of-adjacent-elements) |
 ## Tree
 |  |
 | ------- |
