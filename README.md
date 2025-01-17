@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Counting
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0403-frog-jump](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,8 +62,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
