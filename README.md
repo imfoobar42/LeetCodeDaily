@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 ## Counting
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0403-frog-jump](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0403-frog-jump) |
+| [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0222-count-complete-tree-nodes) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
