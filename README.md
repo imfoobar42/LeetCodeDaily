@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0890-lemonade-change) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0403-frog-jump](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0403-frog-jump) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0070-climbing-stairs) |
 | [0403-frog-jump](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0403-frog-jump) |
