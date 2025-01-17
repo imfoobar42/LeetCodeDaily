@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0219-contains-duplicate-ii) |
+| [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0890-lemonade-change) |
+| [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [2048-build-array-from-permutation](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
