@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0219-contains-duplicate-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 ## Array
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0219-contains-duplicate-ii) |
 | [0403-frog-jump](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0403-frog-jump) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -112,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
