@@ -12,7 +12,7 @@ class Solution {
       }
 
       //merge part 
-      //does the interval start before my interval ends ?
+      //does the interval[i] start before my interval ends ?
       while(i<n && intervals[i][0] <=newInterval[1]){
            newInterval[0]=Math.min(intervals[i][0],newInterval[0]);
            newInterval[1]=Math.max(intervals[i][1], newInterval[1]);
