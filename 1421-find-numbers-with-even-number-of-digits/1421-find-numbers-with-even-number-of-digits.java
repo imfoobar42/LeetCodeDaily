@@ -5,7 +5,7 @@ class Solution {
         digitCount++;
         number /= 10;
       }
-      return digitCount%2==0 ? true:false;
+      return digitCount%2==0;
     }
     public int findNumbers(int[] nums) {
         int count = 0;
