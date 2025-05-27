@@ -1,10 +1,11 @@
 class Solution {
-    static boolean even(int number){
+    boolean even(int number){
       int digitCount = 0;
-      while(number>0){
-        digitCount++;
-        number /= 10;
-      }
+      // while(number>0){
+      //   digitCount++;
+      //   number /= 10;
+      // }
+      digitCount = (int)Math.log10(number)+1;
       return digitCount%2==0;
     }
     public int findNumbers(int[] nums) {
