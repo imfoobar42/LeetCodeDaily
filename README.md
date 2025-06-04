@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0680-valid-palindrome-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2551-apply-operations-to-an-array) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Graph
 |  |
 | ------- |
