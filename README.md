@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0680-valid-palindrome-ii) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
