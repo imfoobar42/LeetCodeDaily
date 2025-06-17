@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0219-contains-duplicate-ii) |
 | [0252-meeting-rooms](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0252-meeting-rooms) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0200-number-of-islands) |
 | [1791-richest-customer-wealth](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1791-richest-customer-wealth) |
 ## Combinatorics
 |  |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1058-lexicographically-smallest-equivalent-string) |
