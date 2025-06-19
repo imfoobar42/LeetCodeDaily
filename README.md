@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0680-valid-palindrome-ii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0739-daily-temperatures) |
