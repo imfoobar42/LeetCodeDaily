@@ -16,7 +16,7 @@ class Solution(object):
           map1[value]= index
 
         for index,value in enumerate(list2):
-          if value in map1:
+          if value in list1:
             _sum = index + map1[value]
             if(_sum==minIndex):
               result.append(value)
