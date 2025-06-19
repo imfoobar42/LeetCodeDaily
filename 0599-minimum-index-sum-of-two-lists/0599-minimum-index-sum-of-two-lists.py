@@ -11,7 +11,9 @@ class Solution(object):
         # create a list for result 
         result = []
         minIndex = float('inf')
-        map1 = {value : index for index,value in enumerate(list1)}
+        map1= {}
+        for index,value in enumerate(list1):
+          map1[value]= index
 
         for index,value in enumerate(list2):
           if value in map1.keys():
