@@ -10,7 +10,7 @@ class Solution(object):
         # hashmap storing indexes and sum 
         # create a list for result 
         result = []
-        minIndex = float('inf')
+        minIndex = 2000
         map1= {}
         for index,value in enumerate(list1):
           map1[value]= index
