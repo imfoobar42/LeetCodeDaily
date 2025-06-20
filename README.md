@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0278-first-bad-version) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0792-binary-search) |
 ## Bit Manipulation
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
