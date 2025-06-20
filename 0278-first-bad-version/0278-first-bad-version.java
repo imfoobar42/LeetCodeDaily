@@ -7,19 +7,12 @@ public class Solution extends VersionControl {
       //first occurence problem 
       int start = 1;
       int end = n;
-      int ans = 0;
       while(start<=end){
         int mid = start + (end - start) / 2 ;
-        if(!isBadVersion(mid)){
-          start = mid+1;
-        }
-        else{
-          //isBadVersion(mid)== True
-          ans = mid; //this could be a potential ans 
-          end = mid-1;
-
-      }
+        if(isBadVersion(mid)) end = mid-1;
+        else start = mid+1; 
     }
-    return ans;
+    //when you break out of the loop that means u have found our bad product
+    return start;
 } 
 }
