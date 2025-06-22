@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0890-lemonade-change) |
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0278-first-bad-version) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
