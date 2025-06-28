@@ -1,28 +1,33 @@
 class Solution {
-    public boolean canPartition(int[] nums) {
-       //Variation of 0-1 knapsack
-        int sum = 0; 
-        for(int n:nums){
-          sum += n;
-        }
-        //if the sum is odd Unequal partitions will be present 
-        if(sum%2!=0) return false; 
-      int i=0,j=0;
+    private boolean subsetSum(int[] nums, int sum){
       int n = nums.length;
-      int value = sum/2;
-      //Initialize a dp table 
-      boolean opt[][] = new boolean[n+1][value+1];
-
-      for(i=0;i<n+1;i++){
-        opt[i][0]= true;
-      }
-      for(i=1;i<n+1;i++){
-        for(j=1;j<value+1;j++){
-          if(nums[i-1]<=j) 
-          opt[i][j] = opt[i-1][j-nums[i-1]] || opt[i-1][j]; //Choice over the element
-          else opt[i][j] = opt[i-1][j]; //Element processed
+      boolean check[][] = new boolean[n+1][sum+1];
+      //intialization
+      for(int i=0;i<n+1;i++){
+        for(int j=0;j<sum+1;j++){
+          if(i==0) check[i][j]= false; // no elements to check with
+          if(j==0) check[i][j]= true; //empty array
         }
       }
-    return opt[n][value];
+
+      for(int i=1;i<n+1;i++){
+        for(int j=1;j<sum+1;j++){
+          if(nums[i-1]<=j)
+            check[i][j] = check[i-1][j-nums[i-1]] || check[i-1][j];
+            //choose the num or ignore 
+          else check[i][j]= check[i-1][j]; //not needed 
+        }
+      }
+      
+      return check[n][sum];
+    }
+    public boolean canPartition(int[] nums) {
+      int sum =0;
+      for(int num:nums){
+        sum+=num;
+      }
+      if(sum%2!=0)return false;
+      //equal sum partition
+      return subsetSum(nums, sum/2);
     }
 }
