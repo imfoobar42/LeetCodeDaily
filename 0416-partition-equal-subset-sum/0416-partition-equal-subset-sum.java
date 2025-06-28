@@ -11,7 +11,7 @@ class Solution {
       int n = nums.length;
       int value = sum/2;
       //Initialize a dp table 
-      boolean opt[][] = new boolean[n+1][sum+1];
+      boolean opt[][] = new boolean[n+1][value+1];
 
       for(i=0;i<n+1;i++){
         opt[i][0]= true;
