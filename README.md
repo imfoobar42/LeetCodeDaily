@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0747-min-cost-climbing-stairs) |
+| [3618-find-the-original-typed-string-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0253-meeting-rooms-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3618-find-the-original-typed-string-ii) |
 ## Counting Sort
 |  |
 | ------- |
