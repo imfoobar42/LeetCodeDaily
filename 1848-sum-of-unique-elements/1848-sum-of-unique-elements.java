@@ -1,19 +1,13 @@
 class Solution {
     public int sumOfUnique(int[] nums) {
-      int sum = 0;
-      Map<Integer, Integer> map = new HashMap<>();
-      for(int n:nums){
-        if(map.getOrDefault(n, 0)==0){
-          sum += n;
-          map.put(n, 1);
+        int[] freq = new int[101];
+        int res=0;
+        for(int n:nums){
+          freq[n]++;
         }
-        else{ //when it already exists
-          map.put(n, map.get(n)+1);
-          if(map.get(n)==2){
-            sum -=n;
-          }
+        for(int i=1;i<101;i++){
+          if(freq[i]==1) res+=i;
         }
-      }
-      return sum;
+        return res;
     }
 }
