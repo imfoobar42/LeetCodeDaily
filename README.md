@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2649-count-total-number-of-colored-cells) |
 | [3201-distribute-candies-among-children-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3201-distribute-candies-among-children-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0222-count-complete-tree-nodes) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3472-bitwise-or-of-adjacent-elements) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2551-apply-operations-to-an-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0326-power-of-three) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
