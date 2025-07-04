@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0801-is-graph-bipartite) |
+| [2121-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2121-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2121-find-if-path-exists-in-graph) |
 ## Recursion
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2121-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2121-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2121-find-if-path-exists-in-graph) |
 ## Interactive
 |  |
 | ------- |
