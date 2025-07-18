@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 | [1848-sum-of-unique-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1848-sum-of-unique-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2058-concatenation-of-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0561-array-partition) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0253-meeting-rooms-ii) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Divide and Conquer
