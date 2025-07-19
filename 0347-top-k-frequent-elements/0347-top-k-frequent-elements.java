@@ -1,16 +1,6 @@
-
-
-import javax.swing.RowFilter.Entry;
-
 class Solution {
-    class Res{
-      int num;
-      int frequency;
-      Res(int num,int frequency){
-        this.num = num;
-        this.frequency = frequency;
-      }
-    }
+    
+    
     public int[] topKFrequent(int[] nums, int k) {
         //k can be any # of freq elements 
         int len = nums.length;
@@ -19,17 +9,18 @@ class Solution {
         for(int n:nums){
           map.put(n, map.getOrDefault(n, 0)+1);
         }
-        PriorityQueue<Res> minHeap= new PriorityQueue<>(
-          Comparator.comparingInt(a-> a.frequency)
+        PriorityQueue<Map.Entry<Integer,Integer>> minHeap= new PriorityQueue<>(
+          (a,b)-> a.getValue()-b.getValue() //minheap with their Frequencies
           );
         for(Map.Entry<Integer, Integer > entry: map.entrySet()){
-          minHeap.offer(new Res(entry.getKey(),entry.getValue()));
+          minHeap.offer(entry);
           if(minHeap.size()>k)
             minHeap.poll();
         }
         int res[] = new int[k];
-        for(int i=0;i<k;i++){
-          res[i]=minHeap.poll().num;
+        int i =0;
+        while(!minHeap.isEmpty()){
+          res[i++]= minHeap.poll().getKey();
         }
     return res;
     }
