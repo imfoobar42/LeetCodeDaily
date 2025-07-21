@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0680-valid-palindrome-ii) |
 | [0974-reorder-data-in-log-files](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0974-reorder-data-in-log-files) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 | [2470-removing-stars-from-a-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2470-removing-stars-from-a-string) |
