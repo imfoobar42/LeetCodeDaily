@@ -1,26 +1,23 @@
 class Solution {
     public int maximumUniqueSubarray(int[] nums) {
-      int l=0;
-      int r=0;
-      int sum=0;
-      int res=0;
-      Set<Integer> set = new HashSet<>();
-      while (r < nums.length) {
-        while(set.contains(nums[r])){
-            //move left just next to the unique element 
-            set.remove(nums[l]);
-            sum = sum - nums[l]; //reset the sum value to 0
-            l++;
-            }
-        // i need to move my left till all elements in set are unique 
-        //does not contain    
-        //already contains the number then reset 
-        set.add(nums[r]);
-        sum += nums[r];
-        res = Math.max(res,sum);
-        r++;
-
-      }
+        int left = 0;
+        int right = 0;
+        int sum = 0;
+        int res = 0;
+        int[] count = new int[10001]; //to maintain freq of numbers 
+        while(right < nums.length){
+          int current = nums[right];
+          sum += current; //add to the sum
+          count[current]++; //increase the count of the current element at r 
+          while(count[current]>1){
+            //move left pointer to the unique elements 
+            sum -= nums[left];
+            count[nums[left]]--;
+            left++;
+          }
+          res = Math.max(res, sum);
+          right++;
+        }
       return res;
     }
 }
