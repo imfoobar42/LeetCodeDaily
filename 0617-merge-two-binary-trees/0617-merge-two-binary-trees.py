@@ -11,8 +11,6 @@ class Solution(object):
         :type root2: Optional[TreeNode]
         :rtype: Optional[TreeNode]
         """
-        if not root1 and not root2:
-          return None
         #check for left tree
         if not root1:
           return root2
