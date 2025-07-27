@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2058-concatenation-of-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2551-apply-operations-to-an-array) |
