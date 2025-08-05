@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0940-fruit-into-baskets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0940-fruit-into-baskets) |
+| [1039-find-the-town-judge](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 | [1813-maximum-erasure-value](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1813-maximum-erasure-value) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0940-fruit-into-baskets) |
 | [0974-reorder-data-in-log-files](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0974-reorder-data-in-log-files) |
+| [1039-find-the-town-judge](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1039-find-the-town-judge) |
 | [1185-find-in-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1185-find-in-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0801-is-graph-bipartite) |
+| [1039-find-the-town-judge](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
