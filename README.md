@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0219-contains-duplicate-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0253-meeting-rooms-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0253-meeting-rooms-ii) |
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0680-valid-palindrome-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0908-middle-of-the-linked-list) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Doubly-Linked List
