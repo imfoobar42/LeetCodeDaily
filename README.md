@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3396-valid-word](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3396-valid-word) |
