@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0326-power-of-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
