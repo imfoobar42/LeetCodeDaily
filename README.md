@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -406,4 +408,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
