@@ -12,9 +12,9 @@ class Solution {
           return;
         }
         for(int i=0;i<nums.length;i++){
-          if(visited[i]==true) continue; //skip
+          if(visited[i]==true) continue; //skip for the same number
+          if(i>0 && nums[i]==nums[i-1] && !visited[i-1]) continue;
           visited[i]= true;
-          //current_num = nums[i];
           current.add(nums[i]);
           permute(nums, visited, current, result);
           current.remove(current.size()-1);
@@ -25,9 +25,8 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
         List<Integer> current = new ArrayList<>();
         boolean[] visited = new boolean[nums.length];
-        //int current_num = nums[0];
+        Arrays.sort(nums);
         permute(nums, visited, current, result);
-        Set<List<Integer>> set= new HashSet<>(result);
-        return new ArrayList<>(set);
+        return result;
     }
 }
