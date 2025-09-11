@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1236-n-th-tribonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2649-count-total-number-of-colored-cells) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
