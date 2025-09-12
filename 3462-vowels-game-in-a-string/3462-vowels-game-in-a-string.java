@@ -1,11 +1,12 @@
 class Solution {
     public boolean doesAliceWin(String s) {
-      for(char ch : s.toCharArray()){
-        if("aeiou".indexOf(ch)>=0){
-          //if vowel exists Alice wins
-          return true;
+      for(int i=0;i<s.length();i++){
+        char ch = s.charAt(i);
+        switch (ch) {
+          case 'a','e','i','o','u':
+            return true;
         }
       }
       return false;
-    }
+}
 }
