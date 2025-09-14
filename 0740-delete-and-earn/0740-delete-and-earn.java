@@ -3,6 +3,8 @@
 class Solution {
     public int deleteAndEarn(int[] nums) {
         // Step 1. Find max value to size our array
+        int n = nums.length;
+        if(n==1) return nums[0];
         int maxVal = 0;
         for (int num : nums) {
             maxVal = Math.max(maxVal, num);
