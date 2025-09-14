@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0740-delete-and-earn](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0792-binary-search) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0435-non-overlapping-intervals) |
+| [0740-delete-and-earn](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1236-n-th-tribonacci-number) |
