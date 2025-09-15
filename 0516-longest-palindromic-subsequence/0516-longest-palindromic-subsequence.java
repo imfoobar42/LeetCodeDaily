@@ -13,6 +13,7 @@ class Solution {
     }
     public int longestPalindromeSubseq(String s) {
       String t = new StringBuilder(s).reverse().toString();
+      if(s.length()==1) return 1;
       return lcs(s, t);
     }
 }
