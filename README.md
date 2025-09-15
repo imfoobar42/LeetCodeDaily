@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0344-reverse-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0322-coin-change) |
