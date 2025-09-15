@@ -12,8 +12,15 @@ class Solution {
       return dp[n][m];
     }
     public int longestPalindromeSubseq(String s) {
-      String t = new StringBuilder(s).reverse().toString();
       if(s.length()==1) return 1;
-      return lcs(s, t);
+      String t = new StringBuilder(s).reverse().toString();
+      Callable<Integer>callable=()->lcs(s,t);
+       FutureTask<Integer>future=new FutureTask<>(callable);
+       new Thread(future).start();
+       try{
+        return future.get();
+       }catch(Exception e){
+        return 0;
+       }
     }
 }
