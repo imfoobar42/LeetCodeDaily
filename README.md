@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0162-find-peak-element) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0322-coin-change) |
