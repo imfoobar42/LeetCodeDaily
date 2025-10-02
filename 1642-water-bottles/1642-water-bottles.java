@@ -3,9 +3,9 @@ class Solution {
         int res =numBottles;
         int emptyBottle = numBottles;
         while(emptyBottle>=numExchange){
-          int newBottles = emptyBottle/numExchange;
-          res+=newBottles;
-          emptyBottle =emptyBottle%numExchange +newBottles;
+          int newWater = emptyBottle/numExchange;
+          res+=newWater;
+          emptyBottle =emptyBottle%numExchange +newWater;
         }
         return res;
     }
