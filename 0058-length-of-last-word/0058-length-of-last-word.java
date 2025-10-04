@@ -14,5 +14,7 @@ class Solution {
         }
         //count # of characters till we get empty space 
         return count;
+        //TC : O(n)
+        //SC : O(1)
     }
 }
