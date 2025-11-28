@@ -1,6 +1,6 @@
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-        PriorityQueue<Integer> minHeap = new PriorityQueue<>(); //minHeap to store k large elements encountered
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>(k); //minHeap to store k large elements encountered
         //iterate through all elements
         for(int n:nums){
           //if current element is greater than 
@@ -14,4 +14,6 @@ class Solution {
         }
         return minHeap.peek();
     }
+  //TC : O(nlogk)
+  //SC : O(k)
 }
