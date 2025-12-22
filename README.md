@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1470-shuffle-the-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1470-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1848-sum-of-unique-elements) |
