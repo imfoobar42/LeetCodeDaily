@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 | [1813-maximum-erasure-value](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1848-sum-of-unique-elements) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1185-find-in-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1470-shuffle-the-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1470-shuffle-the-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0645-set-mismatch) |
 | [0974-reorder-data-in-log-files](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0974-reorder-data-in-log-files) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
 | ------- |
