@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2058-concatenation-of-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2265-partition-array-according-to-given-pivot) |
