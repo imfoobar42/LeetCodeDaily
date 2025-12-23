@@ -1,18 +1,20 @@
 class Solution {
-    public int[] smallerNumbersThanCurrent(int[] nums) {
-        //brute force 
-        int count = 0;
-        int n = nums.length;
-        int[] res = new int[n];
-        for(int i=0;i<n;i++){
-          count = 0; //reset counter
-          for(int j=0;j<n;j++){
-            if(i!=j && nums[j]<nums[i])count++;
-          }
-          res[i]=count;
-        }
-        return res;
+  public int[] smallerNumbersThanCurrent(int[] nums) {
+    //brute force 
+    int n = nums.length;
+    int count[] = new int[101];
+    for (int num : nums)
+      count[num]++; //get the count of each element
+    for (int i = 1; i < 101; i++) { //prefix count array
+      count[i] += count[i - 1];
     }
-    //TC: O(n^2)
-    //SC: O(n)
+    int[] res = new int[n];
+    for (int i = 0; i < n; i++) {
+      if(nums[i]==0) continue; //skip
+      res[i]=count[nums[i]-1];
+    }
+    return res;
+  }
+  //TC: O(n)
+  //SC: O(n)
 }
