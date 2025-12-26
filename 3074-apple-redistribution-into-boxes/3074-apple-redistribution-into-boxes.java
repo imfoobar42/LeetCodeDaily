@@ -9,6 +9,7 @@ class Solution {
         for(int i=m-1;i>=0 && sum>0;i--){
           sum -=capacity[i]; //keep distributing the apples
           count++;
+          if(sum==0) return count;
         }
         return count;
     }
