@@ -1,4 +1,5 @@
 class Solution {
+
   public int minimumBoxes(int[] apple, int[] capacity) {
     int sum = 0;
     for (int num : apple)
