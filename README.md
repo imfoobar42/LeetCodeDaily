@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2470-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3396-valid-word](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0253-meeting-rooms-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3618-find-the-original-typed-string-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3618-find-the-original-typed-string-ii) |
 ## Counting Sort
 |  |
