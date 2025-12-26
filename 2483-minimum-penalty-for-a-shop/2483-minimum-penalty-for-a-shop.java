@@ -3,8 +3,8 @@ class Solution {
     int bestTime = 0;
     int prefix = 0;
     int minPenalty = 0;
-    //if we see a Y then +1
-    //if we see a N then -1 
+    //if we see a Y then -1 penalty
+    //if we see a N then +1 penalty
     for(int i=0;  i<customers.length();i++){
       char ch = customers.charAt(i); //current char
       prefix += ch=='Y'?-1:1; //add to the prefix sum 
