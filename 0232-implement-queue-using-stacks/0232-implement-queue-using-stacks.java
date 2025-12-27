@@ -17,8 +17,8 @@ class MyQueue {
     if(!sDeletion.isEmpty()) return sDeletion.pop();
     //if(sInsertion.isEmpty()) return -1; //no element to return
     while(!sInsertion.isEmpty()){
-      int popedElement =  sInsertion.pop();
-      sDeletion.push(popedElement);
+      int poppedElement =  sInsertion.pop();
+      sDeletion.push(poppedElement);
     }
     return sDeletion.pop();
   }
@@ -26,8 +26,8 @@ class MyQueue {
   public int peek() {
     if(!sDeletion.isEmpty()) return sDeletion.peek();
     while(!sInsertion.isEmpty()){
-      int popedElement =  sInsertion.pop();
-      sDeletion.push(popedElement);
+      int poppedElement =  sInsertion.pop();
+      sDeletion.push(poppedElement);
     }
     return sDeletion.peek();
   }
