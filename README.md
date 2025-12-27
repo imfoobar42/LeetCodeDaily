@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1441-build-an-array-with-stack-operations](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1470-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1813-maximum-erasure-value) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0739-daily-temperatures) |
+| [1441-build-an-array-with-stack-operations](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1441-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
