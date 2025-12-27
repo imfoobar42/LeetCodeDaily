@@ -1,7 +1,7 @@
 class MyQueue {
 
   private Stack<Integer> sInsertion; //stack 1 for insertion
-  private Stack<Integer> sDeletion;  //stack 2 for deletion
+  private Stack<Integer> sDeletion; //stack 2 for deletion
 
   public MyQueue() {
     this.sInsertion = new Stack<Integer>();
@@ -14,26 +14,29 @@ class MyQueue {
   }
 
   public int pop() {
-    if(!sDeletion.isEmpty()) return sDeletion.pop();
-    //if(sInsertion.isEmpty()) return -1; //no element to return
-    while(!sInsertion.isEmpty()){
-      int poppedElement =  sInsertion.pop();
-      sDeletion.push(poppedElement);
-    }
+    if (!sDeletion.isEmpty())
+      return sDeletion.pop();
+    shuffle();
     return sDeletion.pop();
   }
 
-  public int peek() {
-    if(!sDeletion.isEmpty()) return sDeletion.peek();
-    while(!sInsertion.isEmpty()){
-      int poppedElement =  sInsertion.pop();
+  private void shuffle() {
+    while (!sInsertion.isEmpty()) {
+      int poppedElement = sInsertion.pop();
       sDeletion.push(poppedElement);
     }
+  }
+
+  public int peek() {
+    if (!sDeletion.isEmpty())
+      return sDeletion.peek();
+    shuffle();
     return sDeletion.peek();
   }
 
   public boolean empty() {
-    if(sDeletion.isEmpty() && sInsertion.isEmpty()) return true;
+    if (sDeletion.isEmpty() && sInsertion.isEmpty())
+      return true;
     return false;
   }
 }
