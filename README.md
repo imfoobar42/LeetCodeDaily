@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1929-concatenation-of-array) |
