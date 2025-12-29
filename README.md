@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0583-delete-operation-for-two-strings) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0645-set-mismatch) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0561-array-partition) |
