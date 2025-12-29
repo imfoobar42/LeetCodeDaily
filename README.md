@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3201-distribute-candies-among-children-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Graph
