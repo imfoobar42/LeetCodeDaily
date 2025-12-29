@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3577-convert-doubly-linked-list-to-array-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
