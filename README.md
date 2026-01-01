@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0263-ugly-number) |
