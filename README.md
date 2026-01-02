@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1039-find-the-town-judge) |
+| [1207-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1502-construct-k-palindrome-strings) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0978-valid-mountain-array) |
 | [1039-find-the-town-judge](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1039-find-the-town-judge) |
 | [1185-find-in-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1185-find-in-mountain-array) |
+| [1207-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
