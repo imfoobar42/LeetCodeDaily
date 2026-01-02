@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-reorder-data-in-log-files](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0974-reorder-data-in-log-files) |
 | [0978-valid-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0978-valid-mountain-array) |
 | [1039-find-the-town-judge](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1039-find-the-town-judge) |
