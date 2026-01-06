@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0801-is-graph-bipartite) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0801-is-graph-bipartite) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2121-find-if-path-exists-in-graph) |
 ## Recursion
