@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3074-apple-redistribution-into-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2121-find-if-path-exists-in-graph) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
