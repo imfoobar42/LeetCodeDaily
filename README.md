@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0213-house-robber-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0326-power-of-three) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0102-binary-tree-level-order-traversal) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0102-binary-tree-level-order-traversal) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
 ## Backtracking
