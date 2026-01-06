@@ -29,8 +29,7 @@ class Solution {
 
     }
     //minHeap size as at every level we add levelSum
-    if (minHeap.size() < k) return -1;
-    return minHeap.peek(); //O(1) for peek
+    return (minHeap.size() < k)? -1:minHeap.peek(); //O(1) for peek
   }
 }
 //TC : O(N + LlogK) - BFS + Heap operations (Offer, Poll)
