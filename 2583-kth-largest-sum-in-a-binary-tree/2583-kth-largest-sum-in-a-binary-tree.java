@@ -4,12 +4,14 @@ class Solution {
     //Approach - Level Order Traversal 
     //min heap of size k to store maxValues
     //get sum of nodes at each level
+    if(root==null) return -1;
+    
     Queue<TreeNode> queue = new ArrayDeque<>();
     queue.offer(root); //add the root
 
     PriorityQueue<Long> minHeap = new PriorityQueue<>();
-
     while (!queue.isEmpty()) {
+
       long levelSum = 0; //current level sum 
       int qSize = queue.size(); //# of nodes at current level 
 
