@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0253-meeting-rooms-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0253-meeting-rooms-ii) |
 | [0344-reverse-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0344-reverse-string) |
