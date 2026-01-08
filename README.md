@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1441-build-an-array-with-stack-operations](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1441-build-an-array-with-stack-operations) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1470-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1813-maximum-erasure-value) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
