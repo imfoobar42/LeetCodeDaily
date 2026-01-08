@@ -2,7 +2,9 @@ class Solution {
   public int maxDotProduct(int[] nums1, int[] nums2) {
     int m = nums1.length;
     int n = nums2.length;
+
     int[][] dp = new int[m + 1][n + 1];
+
     for (int i = 0; i < m + 1; i++)
       for (int j = 0; j < n + 1; j++) {
         dp[i][j] = Integer.MIN_VALUE;
@@ -21,7 +23,6 @@ class Solution {
             product + Math.max(0, dp[i - 1][j - 1]));
       }
     }
-
     return dp[m][n];
   }
 }
