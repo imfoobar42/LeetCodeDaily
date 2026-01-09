@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0435-non-overlapping-intervals) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1236-n-th-tribonacci-number) |
@@ -551,9 +554,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0232-implement-queue-using-stacks) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
