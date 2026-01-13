@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-reorder-data-in-log-files](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0974-reorder-data-in-log-files) |
 | [0978-valid-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0978-valid-mountain-array) |
+| [0994-rotting-oranges](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0994-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1039-find-the-town-judge) |
 | [1185-find-in-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1185-find-in-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1207-unique-number-of-occurrences) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0801-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2121-find-if-path-exists-in-graph) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0994-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1791-richest-customer-wealth) |
 ## Combinatorics
 |  |
