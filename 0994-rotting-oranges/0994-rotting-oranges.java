@@ -13,7 +13,6 @@ class Solution {
   public int orangesRotting(int[][] grid) {
     int row = grid.length;
     int col = grid[0].length;
-    int[][] visited = new int[row][col];
     int countFreshOrange = 0;
 
     //bfs-q
@@ -21,8 +20,8 @@ class Solution {
 
     for (int i = 0; i < row; i++) {
       for (int j = 0; j < col; j++) {
-        if (grid[i][j] == 2) { //rotten orange
-          visited[i][j] = 2; //starting node 
+        if (grid[i][j] == 2) {
+          //starting node 
           q.offer(new Orange(i, j, 0));
         } else if (grid[i][j] == 1) {
           countFreshOrange++;
@@ -30,28 +29,24 @@ class Solution {
       }
     }
     int currentTime = 0;
-    int countOrangesProcessed = 0;
-    int[] dRow = { -1, 0, +1, 0 };
-    int[] dCol = { 0, +1, 0, -1 };
+    int[][] dRowCol = { { -1, 0 }, { 0, 1 }, { 1, 0 }, { 0, -1 } };
+
     while (!q.isEmpty()) {
 
-      int r = q.peek().row;
-      int c = q.peek().col;
-      int t = q.peek().exploredTime;
-      currentTime = Math.max(t, currentTime);
-      q.remove();
+      Orange o = q.poll();
+      currentTime = Math.max(currentTime, o.exploredTime);
 
-      for (int i = 0; i < 4; i++) {
-        int nRow = r + dRow[i];
-        int nCol = c + dCol[i];
+      for (int dir[] : dRowCol) {
+        int nRow = o.row + dir[0];
+        int nCol = o.col + dir[1];
 
-        if (nRow >= 0 && nRow < row && nCol >= 0 && nCol < col && grid[nRow][nCol] == 1 && visited[nRow][nCol] == 0) {
-          q.offer(new Orange(nRow, nCol, currentTime + 1)); //add it into the queue
-          visited[nRow][nCol] = 2; //mark it visited
-          countOrangesProcessed++;
+        if (nRow >= 0 && nRow < row && nCol >= 0 && nCol < col && grid[nRow][nCol] == 1) {
+          q.offer(new Orange(nRow, nCol, o.exploredTime + 1)); //add it into the queue
+          grid[nRow][nCol] = 2; //mark it rotten
+          countFreshOrange--;
         }
       }
     }
-    return (countOrangesProcessed == countFreshOrange) ? currentTime : -1;
+    return countFreshOrange == 0 ? currentTime : -1;
   }
 }
