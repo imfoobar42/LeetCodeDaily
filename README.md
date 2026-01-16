@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0801-is-graph-bipartite) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0801-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0090-subsets-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0797-all-paths-from-source-to-target) |
 ## Brainteaser
 |  |
 | ------- |
@@ -578,5 +581,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
