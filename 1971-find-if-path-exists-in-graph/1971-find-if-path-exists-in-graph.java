@@ -4,6 +4,7 @@ class Solution {
       visited[src]=1; //mark it visited
 
       for(int node:adjList.get(src)){
+        if(node==dest) return true;
         if(visited[node]==0){
           if(dfs(node,dest,visited,adjList)==true) return true;
         }
