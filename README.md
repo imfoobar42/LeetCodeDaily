@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0801-is-graph-bipartite) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1971-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Recursion
@@ -569,4 +571,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0380-insert-delete-getrandom-o1) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
