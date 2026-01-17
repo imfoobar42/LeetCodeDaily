@@ -9,8 +9,8 @@ class MyHashMap {
     }
   }
 
-  private Node[] nodeBucket; //array of Nodes 
-  private int capacity = 10_00_000;
+  private final Node[] nodeBucket; //array of Nodes 
+  private final int capacity = 10_007;
 
   public MyHashMap() {
     this.nodeBucket = new Node[capacity];
