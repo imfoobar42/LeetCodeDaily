@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0706-design-hashmap) |
 | [0740-delete-and-earn](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0940-fruit-into-baskets) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0735-asteroid-collision) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0024-swap-nodes-in-pairs) |
 | [0160-intersection-of-two-linked-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0705-design-hashset](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0706-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0908-middle-of-the-linked-list) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3577-convert-doubly-linked-list-to-array-i) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0380-insert-delete-getrandom-o1) |
+| [0705-design-hashset](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
@@ -594,5 +598,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
