@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0978-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0994-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1039-find-the-town-judge) |
+| [1051-height-checker](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1051-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1185-find-in-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1319-unique-number-of-occurrences) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0645-set-mismatch) |
 | [0974-reorder-data-in-log-files](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0974-reorder-data-in-log-files) |
+| [1051-height-checker](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
