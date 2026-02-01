@@ -1,29 +1,29 @@
 class Foo {
 
-    private AtomicInteger firstJobDone = new AtomicInteger(0);
-    private AtomicInteger secondJobDone = new AtomicInteger(0);
-    public Foo() {}
-
-    public void first(Runnable printFirst) throws InterruptedException {
-
-        // printFirst.run() outputs "first". Do not change or remove this line.
-        printFirst.run();
-        firstJobDone.incrementAndGet();
-    }
-
-    public void second(Runnable printSecond) throws InterruptedException {
-
-        // printSecond.run() outputs "second". Do not change or remove this line.
-        while(firstJobDone.get()!=1);
-        printSecond.run();
-        secondJobDone.incrementAndGet();
+    volatile int count = 1;
+    public Foo() {
         
     }
 
-    public void third(Runnable printThird) throws InterruptedException {
+    public void first(Runnable printFirst) throws InterruptedException {
+        
+        // printFirst.run() outputs "first". Do not change or remove this line.
+        printFirst.run();
+        count = 2;
+    }
 
+    public void second(Runnable printSecond) throws InterruptedException {
+        
+        // printSecond.run() outputs "second". Do not change or remove this line.
+        while(count!=2);
+        printSecond.run();
+        count=3;
+    }
+
+    public void third(Runnable printThird) throws InterruptedException {
+        
         // printThird.run() outputs "third". Do not change or remove this line.
-        while(secondJobDone.get()!=1);
+        while(count!=3);
         printThird.run();
     }
 }
