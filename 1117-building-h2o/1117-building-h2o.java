@@ -7,25 +7,22 @@ class H2O {
     // //multiple threads arrive at phaser
 
     public H2O() {
-        semO = new Semaphore(1);
         semH = new Semaphore(2);
-        phaser = new Phaser(3);
+        semO = new Semaphore(1);
     }
 
     public void hydrogen(Runnable releaseHydrogen) throws InterruptedException {
 		
         // releaseHydrogen.run() outputs "H". Do not change or remove this line.
-        semH.acquire();
+        semH.acquire(1);
         releaseHydrogen.run();
-        phaser.arriveAndAwaitAdvance(); //u wait for both H and O
-        semH.release();
+        semO.release(1);
     }
 
     public void oxygen(Runnable releaseOxygen) throws InterruptedException {
-        semO.acquire();
+        semO.acquire(2);
         // releaseOxygen.run() outputs "O". Do not change or remove this line.
 		releaseOxygen.run();
-        phaser.arriveAndAwaitAdvance(); //wait for both H's 
-        semO.release();
+        semH.release(2);
     }
 }
