@@ -12,17 +12,24 @@ class H2O {
     }
 
     public void hydrogen(Runnable releaseHydrogen) throws InterruptedException {
-		
+
         // releaseHydrogen.run() outputs "H". Do not change or remove this line.
-        semH.acquire(1);
-        releaseHydrogen.run();
-        semO.release(1);
+        try {
+            semH.acquire(1);
+            releaseHydrogen.run();
+            semO.release(1);
+        } catch (InterruptedException e) {
+        }
     }
 
     public void oxygen(Runnable releaseOxygen) throws InterruptedException {
-        semO.acquire(2);
-        // releaseOxygen.run() outputs "O". Do not change or remove this line.
-		releaseOxygen.run();
-        semH.release(2);
+
+        try {
+            semO.acquire(2);
+            // releaseOxygen.run() outputs "O". Do not change or remove this line.
+            releaseOxygen.run();
+            semH.release(2);
+        } catch (InterruptedException e) {
+        }
     }
 }
