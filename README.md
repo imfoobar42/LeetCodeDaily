@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2469-convert-the-temperature](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2469-convert-the-temperature) |
 | [2649-count-total-number-of-colored-cells](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2649-count-total-number-of-colored-cells) |
 | [3201-distribute-candies-among-children-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3201-distribute-candies-among-children-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3462-vowels-game-in-a-string) |
