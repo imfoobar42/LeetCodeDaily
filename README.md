@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2942-find-words-containing-character) |
 | [3074-apple-redistribution-into-boxes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2469-convert-the-temperature](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2469-convert-the-temperature) |
 | [2649-count-total-number-of-colored-cells](https://github.com/imfoobar42/LeetCodeDaily/tree/master/2649-count-total-number-of-colored-cells) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3201-distribute-candies-among-children-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
