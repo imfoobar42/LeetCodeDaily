@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0463-island-perimeter](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0733-flood-fill) |
