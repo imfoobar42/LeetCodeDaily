@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0705-design-hashset](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0707-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0908-middle-of-the-linked-list) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/imfoobar42/LeetCodeDaily/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Doubly-Linked List
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/imfoobar42/LeetCodeDaily/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
