@@ -1,21 +1,17 @@
 class Solution {
     public int[] sortByBits(int[] arr) {
-        Integer[] temp = Arrays.stream(arr).boxed().toArray(Integer[]::new);
-        
-        Arrays.sort(temp, (a, b) -> {
-            int countA = Integer.bitCount(a);
-            int countB = Integer.bitCount(b);
-            
-            if (countA == countB) {
-                return a - b;
-            }
-            return countA - countB;
-        });
-        
-        for (int i = 0; i < arr.length; i++) {
-            arr[i] = temp[i];
-        }
-        
+        int n = arr.length;
+        Integer[] intArray = new Integer[n];
+        for(int i=0;i<n;i++) intArray[i]=arr[i]; //copy to Integer intArray
+        //custom sort
+        Arrays.sort(
+          intArray, 
+          (a,b)->{
+            int differenceBits = Integer.bitCount(a)-Integer.bitCount(b);
+            return differenceBits==0 ? a-b : differenceBits;
+          }
+        );
+        for(int i=0;i<n;i++) arr[i]=intArray[i];
         return arr;
     }
 }
