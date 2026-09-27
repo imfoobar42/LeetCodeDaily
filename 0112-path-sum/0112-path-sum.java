@@ -1,23 +1,30 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
+    //NLR 
+    private boolean res = false;
+
+    private void preOrder(TreeNode node, int targetSum, int currPathSum) {
+        if (node == null)
+            return;
+
+        currPathSum += node.val;
+
+        if (node.left == null && node.right == null) {
+            if (currPathSum == targetSum) {
+                res = true;
+               }
+             return;
+            }
+        
+
+        preOrder(node.left, targetSum, currPathSum);
+        preOrder(node.right, targetSum, currPathSum);
+
+    }
+
     public boolean hasPathSum(TreeNode root, int targetSum) {
-       if(root==null) return false;
-       //if leaf node and targetSum equates to root.val
-       if(  (root.left ==null && root.right==null) && targetSum==root.val ) return true;
-       return hasPathSum(root.left, targetSum-root.val)|| hasPathSum(root.right, targetSum-root.val); 
+        if (root == null)
+            return false;
+        preOrder(root, targetSum, 0);
+        return res;
     }
 }
